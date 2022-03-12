@@ -2,7 +2,7 @@
 
 1. You can install the package using composer:
 ```bash
-composer require santigarcor/laratrust
+composer require "santigarcor/laratrust^6.*"
 ```
 
 2. Publish the configuration file:
